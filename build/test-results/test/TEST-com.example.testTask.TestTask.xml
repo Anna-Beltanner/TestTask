@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.testTask.TestTask" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-06T15:40:43" hostname="LAPTOP-1DA2T52C" time="13.908">
+  <properties/>
+  <testcase name="skipHelloScreens" classname="com.example.testTask.TestTask" time="13.908"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[фев 06, 2021 6:40:43 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

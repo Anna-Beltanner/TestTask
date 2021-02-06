@@ -1,0 +1,2 @@
+com/example/testTask/TestTask.java
+ com.example.testTask.TestTask
